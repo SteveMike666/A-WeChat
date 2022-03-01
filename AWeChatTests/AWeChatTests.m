@@ -1,4 +1,4 @@
-
+//
 #import <XCTest/XCTest.h>
 
 @interface TLChatTests : XCTestCase
@@ -29,4 +29,6 @@
     }];
 }
 
-@end
+
+@end /awechat
+//
